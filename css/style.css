@@ -1,0 +1,91 @@
+.h{
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sp1{
+    background-color: blue;
+    width: 150px;
+    height: 4px;
+    display: block;
+    margin: auto;
+}
+.div1{
+    width: 350px;
+    height: 100%;
+    float: left;
+    background: white;
+}
+.i1{
+    color: aqua;
+    margin-top: 10px;
+}
+.h1{
+   font-size:25px ; 
+}
+.i2{
+    margin-left: 20px;
+    color: aqua;
+}
+.i3{
+    margin-left: 20px;
+    color: aqua;
+}
+.div2{
+    width: 350px;
+    height: 100%;
+    float: left;
+    margin: 0px 68px;
+    background: white;
+}
+.div3{
+    width: 350px;
+    height: 100%;
+    float: right;
+    background: white;
+}
+.i4{
+    color: aqua;
+    margin-top: 10px;
+}
+.h2{
+   font-size:25px ; 
+}
+.i5{
+    margin-left: 20px;
+    color: aqua;
+}
+.i6{
+    margin-left: 20px;
+    color: aqua;
+}
+
+.i7{
+    color: aqua;
+    margin-top: 10px;
+}
+.a1 ,.a2 , .a3{
+    text-decoration: none;
+}
+.h3{
+   font-size:25px ; 
+}
+.i8{
+    margin-left: 20px;
+    color: aqua;
+}
+.i9{
+    margin-left: 20px;
+    color: aqua;
+}
+.parent{
+    overflow: auto;
+    margin: 50px auto;
+    height: 450px;
+    width: 80%;
+    background: rgb(194, 193, 193);
+}
+.div1:hover,.div2:hover,.div3:hover{
+    background: skyblue;
+}
