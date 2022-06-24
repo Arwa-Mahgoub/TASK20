@@ -36,7 +36,7 @@
     width: 350px;
     height: 100%;
     float: left;
-    margin: 0px 60px;
+    margin: 0px 68px;
     background: white;
 }
 .div3{
@@ -83,7 +83,7 @@
     overflow: auto;
     margin: 50px auto;
     height: 450px;
-    width: 90%;
+    width: 80%;
     background: rgb(194, 193, 193);
 }
 .div1:hover,.div2:hover,.div3:hover{
